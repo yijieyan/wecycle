@@ -59,16 +59,9 @@ typings/
 
 # next.js build output
 .next
-.vscode
 .idea
-font/node_modules
-font/dist
-back/node_modules
-back/public
-back/logs
-back/.idea
-back/.vscode
-font/.idea
-font/.vscode
-
-
+.vscode
+1.txt
+public/
+uploads
+logs
